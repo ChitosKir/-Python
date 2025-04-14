@@ -1,6 +1,0 @@
-Phone,USA,1000
-Phone,Canada,800 
-Laptop,Germany,500
-Phone,Mexico,600
-Laptop,France,700
-Tablet,USA,300 
