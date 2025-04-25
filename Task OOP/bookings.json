@@ -1,0 +1,45 @@
+[
+    {
+        "booking_id": 1,
+        "customer_info": {
+            "customer_id": 1,
+            "name": "Алиса Иванова",
+            "age": 28
+        },
+        "room": {
+            "room_id": 101,
+            "room_type": "standard",
+            "capacity": 2,
+            "price_per_night": 3500.0,
+            "is_available": false,
+            "has_tv": true
+        },
+        "check_in_date": "01-05-2025",
+        "check_out_date": "05-05-2025",
+        "services": {
+            "Завтрак": 800.0,
+            "Поздний выезд": 1200.0
+        }
+    },
+    {
+        "booking_id": 2,
+        "customer_info": {
+            "customer_id": 2,
+            "name": "Борис Смирнов",
+            "age": 45
+        },
+        "room": {
+            "room_id": 103,
+            "room_type": "suite",
+            "capacity": 5,
+            "price_per_night": 8000.0,
+            "is_available": false,
+            "number_of_rooms": 3
+        },
+        "check_in_date": "10-05-2025",
+        "check_out_date": "13-05-2025",
+        "services": {
+            "Трансфер": 2000.0
+        }
+    }
+]
